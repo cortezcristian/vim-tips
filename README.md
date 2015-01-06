@@ -20,3 +20,5 @@ Indent HTML file ([How do I tidy up an HTML file's indentation in VI?](http://st
 :set filetype=html           # abbrev -  :set ft=html
 :set smartindent             # abbrev -  :set si
 ```
+
+Shortcut: `gg =G`
